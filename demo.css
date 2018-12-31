@@ -512,9 +512,19 @@ input,button{
 	opacity: 0;
 }
 #left {
+	width:40px;
+	height:55px;
+	border-radius: 8px;
+	background-color: white;
+	color:gray;
 	left: 30px;
 }
 #right {
+	width:40px;
+	height:55px;
+	border-radius: 8px;
+	background-color: white;
+	color:gray;
 	right: 30px;
 }
 .nav {
